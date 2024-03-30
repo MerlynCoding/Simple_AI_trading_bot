@@ -42,6 +42,9 @@ The `MLTrader` class implements the trading strategy. Here's a breakdown of its 
 
 The `backtest` method in the `strategy` object is used to backtest the trading strategy using historical data. Specify the start and end dates for the backtest, along with any additional parameters.
 
+## inspiration by
+Nicholas Renotte
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
